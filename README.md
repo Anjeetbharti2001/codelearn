@@ -11,4 +11,7 @@ int b = 4;
 int sum = a + b;
 <br>
 System.out.println("Total of sum:-" + sum");
+<br>
 }
+
+//output:- 12
